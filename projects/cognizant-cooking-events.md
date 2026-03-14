@@ -13,6 +13,7 @@ description: |
   I specifically designed the recipe cards at 4″x6″ so they will fit inside a recipe box. This allowed attendees to save the recipe and cook it again in the future. Because of the recipe lengths, I designed the cards to be folded. This also allowed for photographs of the food and additional branding and design elements.
 images:
   - src: /assets/uploads/PortfolioSlide-CognizantCookingEvents.jpg
+  - src: /assets/uploads/PortfolioSlide-CognizantCookingEvents5.jpg
 date: 2026-03-14T21:28:20.025Z
 ---
 
